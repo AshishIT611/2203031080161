@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.swp
+.vscode/
+
+# Build outputs
+dist/
+build/
+
+# Optional: ignore coverage reports
+coverage/
+
+# Optional: ignore IDE configs
+.idea/
+*.sublime-project
+*.sublime-workspace
